@@ -1,0 +1,4 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta name="viewport" content="width=device-width, initial-scale=1"><title>PI KING A PRO REDEEM</title><style>body{background:#111827;color:white;font-family:Arial;text-align:center;padding:25px} .card{background:#263449;padding:25px;border-radius:18px;margin-top:45px}input,button{padding:13px;margin:8px;border-radius:9px;border:0;width:90%;box-sizing:border-box}button{background:#fbbf24;font-weight:bold}</style></head>
+<body><h1>👑 PI KING A PRO</h1><div class="card"><h2>🎁 REDEEM CODE</h2><p>Enter your code below</p><input id="code" placeholder="Enter demo code"><button onclick="document.getElementById('msg').innerText='Demo only: this app cannot verify or grant real rewards.'">CHECK CODE</button><p id="msg"></p><button onclick="window.open('https://reward.ff.garena.com/','_blank')">OFFICIAL REDEEM SITE</button></div><p>Fan-made demo app</p></body></html>
